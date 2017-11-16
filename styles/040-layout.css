@@ -68,3 +68,6 @@ Wer es noch schöner möchte, möge sich mal https://cssguidelin.es/ anschauen.
     display: block;
     clear: both;
 }
+.mitarbeiter__außen img{
+    border-radius: 50%;
+}
