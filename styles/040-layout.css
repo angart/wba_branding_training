@@ -35,10 +35,17 @@ Wer es noch schöner möchte, möge sich mal https://cssguidelin.es/ anschauen.
 /* Navigation
 -----------------------------------------------------------------------------*/
 
+.site-header__navigation ul{
+    list-style-type: none;
+}
 
+.site-header__navigation li{
+    display: inline;
+}
 /* Footer
 -----------------------------------------------------------------------------*/
 
 .footer {
     border-top: solid 1px var(--color-borders);
+    background-color: brown;
 }
