@@ -31,6 +31,19 @@ Wer es noch schöner möchte, möge sich mal https://cssguidelin.es/ anschauen.
     margin-bottom: var(--space-stack-xl);
 }
 
+.logo{
+    width: 150px;
+    float: left;
+}
+
+.site-header__image{
+
+}
+
+.site-header{
+    background-color: #666666;
+}
+
 
 /* Navigation
 -----------------------------------------------------------------------------*/
